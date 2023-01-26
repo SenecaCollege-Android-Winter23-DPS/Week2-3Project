@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">W23_Week2</string>
+    <string name="signInString">Sign In</string>
+    <string name="welcome_to_android_class">Welcome to Android Class</string>
+    <string name="log_in">Log In</string>
+    <string name="log_out">Log Out</string>
+    <string name="is_admin">Is Admin?</string>
+</resources>
